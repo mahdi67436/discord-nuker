@@ -28,5 +28,5 @@ It is intended strictly for **educational purposes** and **private testing** on 
 ## ⚙ Installation & Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/USERNAME/discord-nuker-educational.git
+git clone https://github.com/mahdi67436/discord-nuker.git
 cd discord-nuker
